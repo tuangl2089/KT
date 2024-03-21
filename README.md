@@ -7,3 +7,4 @@
 * MSSV: 2011068576
 * Ngày sinh: 18/01/2002
 * Ngành CNTT
+* Công nghệ phần mềm
