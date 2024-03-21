@@ -8,3 +8,4 @@
 * Ngày sinh: 18/01/2002
 * Ngành CNTT
 * Công nghệ phần mềm
+* tuan
